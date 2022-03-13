@@ -1,0 +1,24 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>cs4_10_grass_0.ymap</Item>
+    <Item>hedwig_sheriff_garage_milo.ymap</Item>
+    <Item>hedwig_sheriff_garage_placement.ymap</Item>
+    <Item>hedwig_sheriff_lod_milo.ymap</Item>
+    <Item>hedwig_sheriff_milo_.ymap</Item>
+    <Item>lr_cs4_10.ymap</Item>
+    <Item>lr_cs4_10_interior_v_sheriff_milo_.ymap</Item>
+    <Item>lr_cs4_10_strm_0.ymap</Item>
+    <Item>lr_cs4_roads.ymap</Item>
+    <Item>lr_cs4_roads_critical_1.ymap</Item>
+    <Item>lr_cs4_roads_critical_4.ymap</Item>
+    <Item>lr_cs4_roads_strm_0.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+</CodeWalkerProject>
