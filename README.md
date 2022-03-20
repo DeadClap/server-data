@@ -19,8 +19,6 @@ Please adhere to this project's `code of conduct`.
 
 ## Deployment
 
-To deploy this project run
-
 Clone this repository to your enviorment
 ```
 git clone https://github.com/DeadClap/server-data.git (folder)
